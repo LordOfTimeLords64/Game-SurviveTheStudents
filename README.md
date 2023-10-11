@@ -11,7 +11,3 @@ My project partner and I were intending to implement mulitplayer; however, we di
 2. Download the ```project2``` directory from this repo
 3. Open a ```.pde``` file in the ```project2``` directory (the other ```.pde``` files should open automatically as tabs in the Processing app)
 4. Click the run button at the top
-
-# Note:
-
-I tried to export the application as a single file, but it seems to not be working at the moment on my OS. I will try to do some testing and fix it later if possible.
